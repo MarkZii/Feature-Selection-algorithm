@@ -6,7 +6,7 @@ This project involves the development of a Correlation Feature Selection (CFS) s
 To run this project, you need the following software:
  - [NASM](www.nasm.us)
  - [GCC](gcc.gnu.org)
- - 
+
 Both are available as packages through your operating system's package manager. For example, on Ubuntu, run: `sudo apt-get install nasm` or/and `sudo apt-get install gcc`
 
 you may also need to install the following compatibility libraries:
